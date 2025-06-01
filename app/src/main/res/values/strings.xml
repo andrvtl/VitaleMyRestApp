@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VitaleMyRestApp</string>
+    <string name="acessoConfermato">Accesso effettuato!</string>
+    <string name="accessoErrore">Accesso negato\n!</string>
+    <string name="criterio_password">La password deve contenere almeno 4 caratteri</string>
+    <string name="controllo_compilazione">Compila tutti i campi correttamente</string>
+    <string name="rest_da_finire">Rest da finire</string>
+</resources>
